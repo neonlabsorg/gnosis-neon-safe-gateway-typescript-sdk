@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-gateway-typescript-sdk",
+  "name": "@neonlabs-devops/gnosis-neon-gateway-typescript-sdk",
   "version": "3.7.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
